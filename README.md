@@ -15,4 +15,4 @@ Tengan en cuenta que los aviones no van de cualquier punto a cualquier punto sin
 Escriban las reacciones correspondientes a la combustión de cada combustible y expresen matemáticamente la relación entre los volúmenes de combustible y la masa de CO2.
 La interfaz del programa debe incluir validación de campos y sería deseable que genere un feedback diferencial al usuario que permita tomar decisiones sobre en qué medio de transporte realizar su viaje.
 
-# **Go to Huella-de-carbono-umber.vercel.app**
+# **Go to https://Huella-de-carbono-umber.vercel.app**
